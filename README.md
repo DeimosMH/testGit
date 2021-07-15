@@ -1,6 +1,6 @@
 # testGit
 
-This repository is used for testing new features and add-ons of in GitHub connection with:
+This repository is used for testing new features and add-ons of GitHub in connection with:
 
 - [Git CMD/Bash](https://git-scm.com)
 - [GitKraken](https://www.gitkraken.com)
