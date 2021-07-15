@@ -1,4 +1,4 @@
-##	Test Git repository
+# testGit
 
 This repository is used for testing new features and add-ons of in GitHub connection with:
 
@@ -15,10 +15,13 @@ Markdown editor:
 
 ### Test site with animated bg 
 
-$$
-init \rightarrow commits: main \rightarrow branch:[ crazyColors \leftarrow main] \rightarrow merged\; output \\ 
-commits: crazyColors \rightarrow stagging\; area \rightarrow merge:main
-$$
+Files: 
+
+- index.html
+- styles.css
+- app.js
+
+Graph [Visit https://mermaidjs.github.io/ for more information about Mermaid language syntax.]
 
 ```mermaid
 graph LR
@@ -30,11 +33,3 @@ D-->E(stagging area)
 E-->F(merge: main)
 F -->|merged| O(output)
 ```
-
-Files: 
-
-- index.html
-- styles.css
-- app.js
-
-# testGit
